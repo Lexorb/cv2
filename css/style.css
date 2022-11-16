@@ -4,6 +4,10 @@ body{
   margin: 8px;
 }
 
+#pic_profile{
+  border-radius: 100%;
+}
+
 hr {
   display: block;
   margin-left: 16px;
